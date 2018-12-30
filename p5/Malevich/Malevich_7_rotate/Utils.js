@@ -1,4 +1,4 @@
-
+// 画标准矩形
 
 function drawStdRect()
 {
